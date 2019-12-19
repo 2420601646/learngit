@@ -1,3 +1,2 @@
 this is lib name
-this test first add
 this is test second add
